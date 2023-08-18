@@ -21,3 +21,5 @@ Run npm init, install packages, and npm start to be able to iniatilize the serve
 If downloading locally it can be accessed by double clicking the new icon that is now displayed on the users desktop.
 
 ## Deployed link
+
+https://git.heroku.com/jate-mate.git
